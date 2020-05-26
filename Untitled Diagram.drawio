@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T15:56:37.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="DDbnIarKLdqyJaPAaOuU" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T15:56:59.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="P_my1qWfdDlz77AJhtej" version="13.1.3" type="github">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -769,8 +769,8 @@
         <mxCell id="DASkAK31p5AlEVCaGPq0-201" value="More" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="650" y="970" width="770" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DASkAK31p5AlEVCaGPq0-202" value="DD-MM-YYYY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="605" width="110" height="20" as="geometry" />
+        <mxCell id="DASkAK31p5AlEVCaGPq0-202" value="DD-MM-YYYY" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="605" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-203" value="NEKOPOST.NET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="50" width="120" height="20" as="geometry" />
@@ -879,6 +879,9 @@
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-242" value="On Going, 20 Chapters" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1112.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-243" value="DD-MM-YYYY" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="780" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
