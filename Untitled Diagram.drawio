@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T15:25:01.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="xcrhvF9PNfZUbLOcc8YL" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T15:32:30.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dB2-gsB74j3oI_nQt78X" version="13.1.3" type="github">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,6 +285,156 @@
             <mxPoint x="400" y="700" as="sourcePoint" />
             <mxPoint x="50" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="370" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-8" value="&lt;b&gt;PROJECT NAME&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="610" y="305" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-10" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;Description:&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; font-weight: 400 ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo egestas eros, ac rhoncus magna mollis et. Mauris elementum sapien ut mi luctus, in iaculis quam fermentum. Pellentesque quis lorem nec ante fermentum luctus. Ut semper quam a orci efficitur, in pulvinar dolor pellentesque. Nunc ut elit quis lorem facilisis ullamcorper vitae et felis. Donec nec nulla quis erat porta gravida. Etiam tempus nibh lacus, sed lobortis tellus posuere vitae. Maecenas consectetur nulla vitae hendrerit efficitur. Proin sollicitudin facilisis nisi, ac faucibus eros accumsan vitae. Morbi vehicula augue eu bibendum ultricies.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="402.5" width="330" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-11" value="Status : On Going, View: 100k" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-13" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-15" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-16" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-18" value="Author" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="515" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-19" value="Artist" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="535" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-20" value="Website" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="555" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-21" value="First Release" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="575" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-22" value="Last Update" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="595" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="670" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-58">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-30" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-58">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-31" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-58">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-57" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-58">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="710" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-59">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-61" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-59">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-62" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-59">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-63" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-59">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="750" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-64">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-66" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-64">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-67" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-64">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-68" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-64">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="790" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-69">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-71" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-69">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-72" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-69">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-73" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-69">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="830" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-74">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-76" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-74">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-77" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-74">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-78" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-74">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="870" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-79">
+          <mxGeometry width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-81" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Ch.20 - Chapter name&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-79">
+          <mxGeometry width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-82" value="on XX-XX-XXXX" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-79">
+          <mxGeometry y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-83" value="Translator name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DASkAK31p5AlEVCaGPq0-79">
+          <mxGeometry x="250" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="640" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-55" value="Chapter List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="645" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
