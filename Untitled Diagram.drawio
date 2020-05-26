@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T16:20:01.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Ld0O8H-vTQwl6eq1wbXt" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T16:21:59.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="s5W9SVhdfwl-llUJ3JWM" version="13.1.3" type="github">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -463,8 +463,8 @@
         <mxCell id="DASkAK31p5AlEVCaGPq0-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="380" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="DASkAK31p5AlEVCaGPq0-96" value="&lt;b&gt;RECOMMEND&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="265" width="110" height="20" as="geometry" />
+        <mxCell id="DASkAK31p5AlEVCaGPq0-96" value="&lt;b&gt;RECOMMEND - Original Comic&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="265" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="300" width="90" height="130" as="geometry" />
@@ -589,8 +589,8 @@
         <mxCell id="DASkAK31p5AlEVCaGPq0-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="260" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DASkAK31p5AlEVCaGPq0-141" value="&lt;b&gt;RECOMMEND&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="265" width="110" height="20" as="geometry" />
+        <mxCell id="DASkAK31p5AlEVCaGPq0-141" value="&lt;b&gt;RECOMMEND - Original Novel&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="265" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="300" width="90" height="130" as="geometry" />
@@ -1089,6 +1089,27 @@
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-323" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1185" y="110" width="225" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-324" value="EXPLORE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="780" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-325" value="O-COMIC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="865" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-328" value="O-NOVEL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="940" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-329" value="MANGA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-330" value="NOVEL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-331" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-332" value="User Menu" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=11;align=center;size=20;position=0.17;position2=0;base=18;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="20" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
