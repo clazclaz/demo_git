@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T15:57:54.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bTOsDEIgwaCvzPqYMSgo" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T15:59:50.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ARox7AXTT6gNGqmR4L1X" version="13.1.3" type="github">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Page-1">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,7 +452,7 @@
           <mxGeometry x="640" y="40" width="790" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="790" height="1530" as="geometry" />
+          <mxGeometry x="640" y="80" width="790" height="1640" as="geometry" />
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="90" width="380" height="30" as="geometry" />
@@ -1056,6 +1056,30 @@
         </mxCell>
         <mxCell id="DASkAK31p5AlEVCaGPq0-301" value="DD-MM-YYYY" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-302" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1720" width="790" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-303" value="ABOUT NEKOPOST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="1732.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-304" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;open sans&amp;quot;, arial, sans-serif; font-size: 12px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo egestas eros, ac rhoncus magna mollis et. Mauris elementum sapien ut mi luctus, in iaculis quam fermentum. Pellentesque quis lorem nec ante fermentum luctus. Ut semper quam a orci efficitur, in pulvinar dolor pellentesque. Nunc ut elit quis lorem facilisis ullamcorper vitae et felis. Donec nec nulla quis erat porta gravida. Etiam tempus nibh lacus, sed lobortis tellus posuere vitae. Maecenas consectetur nulla vitae hendrerit efficitur. Proin sollicitudin facilisis nisi, ac faucibus eros accumsan vitae. Morbi vehicula augue eu bibendum ultricies.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1757.5" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-305" value="Powered by CLAZ and Happy Providers since 2009" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1830" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-309" value="CONTACT US" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="990" y="1732.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-310" value="TERM OF USE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1252.5" y="1732.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-311" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;open sans&amp;quot;, arial, sans-serif; font-size: 12px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo egestas eros, ac rhoncus magna mollis et. Mauris elementum sapien ut mi luctus, in iaculis quam fermentum. Pellentesque quis lorem nec ante fermentum luctus. Ut semper quam a orci efficitur, in pulvinar dolor pellentesque. Nunc ut elit quis lorem facilisis ullamcorper vitae et felis. Donec nec nulla quis erat porta gravida. Etiam tempus nibh lacus, sed lobortis tellus posuere vitae. Maecenas consectetur nulla vitae hendrerit efficitur. Proin sollicitudin facilisis nisi, ac faucibus eros accumsan vitae. Morbi vehicula augue eu bibendum ultricies.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="1757.5" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DASkAK31p5AlEVCaGPq0-312" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;open sans&amp;quot;, arial, sans-serif; font-size: 12px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo egestas eros, ac rhoncus magna mollis et. Mauris elementum sapien ut mi luctus, in iaculis quam fermentum. Pellentesque quis lorem nec ante fermentum luctus. Ut semper quam a orci efficitur, in pulvinar dolor pellentesque. Nunc ut elit quis lorem facilisis ullamcorper vitae et felis. Donec nec nulla quis erat porta gravida. Etiam tempus nibh lacus, sed lobortis tellus posuere vitae. Maecenas consectetur nulla vitae hendrerit efficitur. Proin sollicitudin facilisis nisi, ac faucibus eros accumsan vitae. Morbi vehicula augue eu bibendum ultricies.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1757.5" width="245" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
