@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T16:56:34.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="8zlxg6UV0vGzbZTM5dHr" version="13.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-27T16:57:40.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="vkMsURJCI3NPXEsL00bv" version="13.1.3" type="github" pages="4">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Index, Detail">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1993,7 +1993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7IQPozi9C2WoRKxrj7V" name="Explore">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="neEjrSRnpJxmk5XyUxYg-0" />
         <mxCell id="neEjrSRnpJxmk5XyUxYg-1" parent="neEjrSRnpJxmk5XyUxYg-0" />
@@ -2372,6 +2372,14 @@
         <mxCell id="qQdTmv41FIsl9obMNyFW-65" value="Term of Use" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=center;arcSize=20;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
           <mxGeometry x="231.25" y="90" width="65" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AjSV192XAI-_8vAcVLU_" name="Reader">
+    <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="e-CdU-GiH-ku2WFccnPM-0" />
+        <mxCell id="e-CdU-GiH-ku2WFccnPM-1" parent="e-CdU-GiH-ku2WFccnPM-0" />
       </root>
     </mxGraphModel>
   </diagram>
