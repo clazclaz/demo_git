@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T16:56:21.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Wm7jemrYN8_6RNl71-I-" version="13.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-27T16:56:34.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="8zlxg6UV0vGzbZTM5dHr" version="13.1.3" type="github" pages="3">
   <diagram id="8td7YuofsSNAn1QMjyVu" name="Index, Detail">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1998,7 +1998,7 @@
         <mxCell id="neEjrSRnpJxmk5XyUxYg-0" />
         <mxCell id="neEjrSRnpJxmk5XyUxYg-1" parent="neEjrSRnpJxmk5XyUxYg-0" />
         <mxCell id="-5YDnofw-8wURXZSTNGW-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="520" y="80" width="370" height="780" as="geometry" />
+          <mxGeometry x="520" y="80" width="370" height="620" as="geometry" />
         </mxCell>
         <mxCell id="-5YDnofw-8wURXZSTNGW-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
           <mxGeometry x="520" y="40" width="370" height="40" as="geometry" />
@@ -2347,6 +2347,30 @@
         </mxCell>
         <mxCell id="qQdTmv41FIsl9obMNyFW-57" value="[ O-COMIC ] On Going, 20 Chapters" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;spacingLeft=5;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
           <mxGeometry x="570" y="660" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-58" value="" style="group" vertex="1" connectable="0" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="520" y="700" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-60" value="ABOUT NEKOPOST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry y="10" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-61" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; font-weight: 400 ; text-align: justify ; background-color: rgb(255 , 255 , 255)&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo egestas eros, ac rhoncus magna mollis et. Mauris elementum sapien ut mi luctus, in iaculis quam fermentum. Pellentesque quis lorem nec ante fermentum luctus. Ut semper quam a orci efficitur, in pulvinar dolor pellentesque. Nunc ut elit quis lorem facilisis ullamcorper vitae et felis. Donec nec nulla quis erat porta gravida. Etiam tempus nibh lacus, sed lobortis tellus posuere vitae. Maecenas consectetur nulla vitae hendrerit efficitur. Proin sollicitudin facilisis nisi, ac faucibus eros accumsan vitae. Morbi vehicula augue eu bibendum ultricies.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=left;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry x="5" y="35" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-62" value="Powered by CLAZ and Happy Providers since 2009" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry x="40" y="130" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-63" value="About Us" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=center;arcSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry x="73.75" y="90" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-64" value="Contract Us" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=center;arcSize=20;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry x="151.25" y="90" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQdTmv41FIsl9obMNyFW-65" value="Term of Use" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=center;arcSize=20;" vertex="1" parent="qQdTmv41FIsl9obMNyFW-58">
+          <mxGeometry x="231.25" y="90" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
