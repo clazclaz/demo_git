@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T04:00:21.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="76vmfSMoOQmmYkTlORco" version="13.1.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-03T04:00:39.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="T_nEQPySciDEiOOLhoJN" version="13.1.12" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2101,7 +2101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7IQPozi9C2WoRKxrj7V" name="Explore">
-    <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="neEjrSRnpJxmk5XyUxYg-0" />
         <mxCell id="neEjrSRnpJxmk5XyUxYg-1" parent="neEjrSRnpJxmk5XyUxYg-0" />
@@ -2915,23 +2915,23 @@
         <mxCell id="mtshIR1VWCtZNr8LftbI-199" value="Back" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#4D4D4D;align=center;arcSize=8;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
           <mxGeometry x="790" y="95" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-200" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="155" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-200" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="155" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-201" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="195" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-201" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="195" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-202" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="235" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-202" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="235" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-203" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="275" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-203" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="275" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-204" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="315" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-204" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="315" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtshIR1VWCtZNr8LftbI-205" value="Last Update&lt;br&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
-          <mxGeometry x="795" y="355" width="80" height="30" as="geometry" />
+        <mxCell id="mtshIR1VWCtZNr8LftbI-205" value="Last Update&lt;br style=&quot;font-size: 10px;&quot;&gt;20-06-2020" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="neEjrSRnpJxmk5XyUxYg-1">
+          <mxGeometry x="805" y="355" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
