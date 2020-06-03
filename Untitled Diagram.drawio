@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T04:01:22.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="wCYOdwUbzDsCfLvysshO" version="13.1.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-03T04:01:49.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="8pzjb709Nxr2N1lqo_CA" version="13.1.12" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,6 +100,12 @@
         </mxCell>
         <mxCell id="Q3daOFidqaaoxfnSVhiS-31" value="Launching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="380" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KgfQP9Vxq_Eu3VNB88tg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Q3daOFidqaaoxfnSVhiS-1" source="KgfQP9Vxq_Eu3VNB88tg-0" target="Q3daOFidqaaoxfnSVhiS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgfQP9Vxq_Eu3VNB88tg-0" value="Support Publisher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="760" y="320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
