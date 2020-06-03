@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T03:42:26.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="NjaWym0KYH3l7c2HhfFx" version="13.1.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-03T03:43:27.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="AnjWupx1eNxucWU6zIDh" version="13.1.12" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,8 +86,20 @@
         <mxCell id="Q3daOFidqaaoxfnSVhiS-21" value="Reorganize Content Files&lt;br&gt;(Easier to backup)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="560" y="640" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Q3daOFidqaaoxfnSVhiS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q3daOFidqaaoxfnSVhiS-1" source="Q3daOFidqaaoxfnSVhiS-24" target="Q3daOFidqaaoxfnSVhiS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q3daOFidqaaoxfnSVhiS-24" value="UAT Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="380" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3daOFidqaaoxfnSVhiS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Q3daOFidqaaoxfnSVhiS-1" source="Q3daOFidqaaoxfnSVhiS-29" target="Q3daOFidqaaoxfnSVhiS-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3daOFidqaaoxfnSVhiS-29" value="Migration Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="380" y="800" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3daOFidqaaoxfnSVhiS-31" value="Launching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="380" y="880" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
