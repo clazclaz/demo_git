@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T04:02:19.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="6igCxvWfMjHr_YTdR5QX" version="13.1.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-03T04:07:17.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="uzOqZmBO2_PqkTID0hxV" version="13.1.12" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1648" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="KgfQP9Vxq_Eu3VNB88tg-0" value="Support Publisher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="760" y="320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KgfQP9Vxq_Eu3VNB88tg-2" value="Search Result, Project Detail also show licensed publisher info" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;size=20;position=0.14;position2=0.14;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+        <mxCell id="KgfQP9Vxq_Eu3VNB88tg-2" value="Search Result, Project Detail also show licensed publisher info" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;align=left;size=20;position=0.14;position2=0.14;spacingLeft=10;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="760" y="220" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
