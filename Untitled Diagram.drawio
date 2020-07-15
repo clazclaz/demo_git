@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:03:05.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="IKCF49LZ8I8GjMD6II0g" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T07:04:03.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="IMCmDxs2c-Z1EqqSPUss" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5627,7 +5627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R91uH6pfP83uw8u68Sqn" name="Spec">
-    <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WFyH2IE3ottnsrRTayX_-0" />
         <mxCell id="WFyH2IE3ottnsrRTayX_-1" parent="WFyH2IE3ottnsrRTayX_-0" />
@@ -5730,8 +5730,8 @@
         <mxCell id="WFyH2IE3ottnsrRTayX_-36" value="Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="530" y="610" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-37" value="1.Methodology&lt;br&gt;2.Team&lt;br&gt;3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="658" y="431" width="90" height="50" as="geometry" />
+        <mxCell id="WFyH2IE3ottnsrRTayX_-37" value="1.Methodology + ISO, Standard? for IT Management&lt;br&gt;2.Team, Any issue for IT (What want to improve?&lt;br&gt;3." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="650" y="415" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
