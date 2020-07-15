@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T04:39:39.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="unBCM1-61FLlcnsANpOb" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T04:39:55.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dGk9w38RmFRBC7yMPM_W" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5655,10 +5655,10 @@
         <mxCell id="WFyH2IE3ottnsrRTayX_-9" value="Timeline&lt;br&gt;Career" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="160" y="360" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-10" value="Current Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+        <mxCell id="WFyH2IE3ottnsrRTayX_-10" value="Current Project&lt;br&gt;Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="280" y="360" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-11" value="Duty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+        <mxCell id="WFyH2IE3ottnsrRTayX_-11" value="Duty as SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
