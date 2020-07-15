@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:04:03.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="IMCmDxs2c-Z1EqqSPUss" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T07:05:08.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="-dYKXJqcCA0uMJy7f3yK" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5662,7 +5662,7 @@
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-12" value="Question&lt;br&gt;to interviewer&lt;br&gt;1.Direction of IT and Biz Dep&lt;br&gt;2.Project info in 2 years&lt;br&gt;3.Org chart" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="410" y="360" width="170" height="160" as="geometry" />
+          <mxGeometry x="410" y="360" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-13" value="Kiatnakin Bank&lt;br&gt;2 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Hire Purchase&lt;/b&gt;&lt;br&gt;Approval Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="160" y="530" width="160" height="100" as="geometry" />
@@ -5731,7 +5731,10 @@
           <mxGeometry x="530" y="610" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-37" value="1.Methodology + ISO, Standard? for IT Management&lt;br&gt;2.Team, Any issue for IT (What want to improve?&lt;br&gt;3." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="650" y="415" width="300" height="50" as="geometry" />
+          <mxGeometry x="630" y="380" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-38" value="Fund Management&lt;br&gt;Trade Finance&lt;br&gt;SME Related Product&lt;br&gt;Insurance is ok, Product control &amp;lt;&amp;lt;?&lt;br&gt;&lt;br&gt;อะไรที่ทำให้หุ้น BAY ตกลงน้อยสุดในทะเนียบ Bank วันนี้" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="620" y="430" width="290" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
