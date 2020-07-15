@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T06:44:33.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="4O1CFEQvDEIepd80UxTP" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T06:53:05.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="sss9FhahJDOGvMEtgXz4" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5664,14 +5664,14 @@
         <mxCell id="WFyH2IE3ottnsrRTayX_-12" value="Question&lt;br&gt;to interviewer&lt;br&gt;1.Project info in 2 years&lt;br&gt;2.Direction of IT Dep&lt;br&gt;3.Org chart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="410" y="360" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-13" value="Kiatnakin Bank&lt;br&gt;2 Years&lt;br&gt;&lt;br&gt;HIRE PURCHASE&lt;br&gt;Approval Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+        <mxCell id="WFyH2IE3ottnsrRTayX_-13" value="Kiatnakin Bank&lt;br&gt;2 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Hire Purchase&lt;/b&gt;&lt;br&gt;Approval Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="160" y="530" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-14" value="Accenture Solution&lt;br&gt;3 Years&lt;br&gt;&lt;br&gt;Telecom&lt;br&gt;DTAC, CELCOM&lt;br&gt;&lt;br&gt;Plant&lt;br&gt;SCG" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+        <mxCell id="WFyH2IE3ottnsrRTayX_-14" value="Accenture Solution&lt;br&gt;3 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Telecom&lt;/b&gt;&lt;br&gt;DTAC, CELCOM&lt;br&gt;&lt;br&gt;&lt;b&gt;Plant&lt;/b&gt;&lt;br&gt;SCG" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="161" y="640" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-17" value="Kiatnakin Bank&lt;br&gt;&lt;br&gt;Funding&lt;br&gt;(Online interface, Product campaign)&lt;br&gt;&lt;br&gt;Commercial Lending&lt;br&gt;(Origination, Post Approve Management)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="161" y="770" width="120" height="150" as="geometry" />
+        <mxCell id="WFyH2IE3ottnsrRTayX_-17" value="Kiatnakin Bank&lt;br&gt;&lt;br&gt;&lt;b&gt;Funding&lt;/b&gt;&lt;br&gt;(Online interface, Product campaign)&lt;br&gt;&lt;br&gt;&lt;b&gt;Commercial Lending&lt;/b&gt;&lt;br&gt;(Origination, Post Approve Management)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="161" y="770" width="159" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
