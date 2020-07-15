@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T06:53:56.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="vfeo_LXaPRzdDNN2YHsy" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T06:55:16.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="BaK0oZIvjextuE8TvqtT" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5681,6 +5681,21 @@
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-20" value="Etc.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="690" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-21" value="Funding - Reduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="520" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-22" value="Funding - Investment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="520" y="680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-23" value="Migration, Reconcile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="760" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-24" value="Funding - Online Transactional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="520" y="720" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFyH2IE3ottnsrRTayX_-25" value="Sunset Legacy Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="760" y="680" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
