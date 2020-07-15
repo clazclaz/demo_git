@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:02:46.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="PJ1uezLQ9vIZ4D-vkv_Z" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-15T07:03:05.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="IKCF49LZ8I8GjMD6II0g" version="13.3.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5661,8 +5661,8 @@
         <mxCell id="WFyH2IE3ottnsrRTayX_-11" value="Duty as SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WFyH2IE3ottnsrRTayX_-12" value="Question&lt;br&gt;to interviewer&lt;br&gt;2.Direction of IT and Biz Dep&lt;br&gt;1.Project info in 2 years&lt;br&gt;3.Org chart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="410" y="360" width="120" height="160" as="geometry" />
+        <mxCell id="WFyH2IE3ottnsrRTayX_-12" value="Question&lt;br&gt;to interviewer&lt;br&gt;1.Direction of IT and Biz Dep&lt;br&gt;2.Project info in 2 years&lt;br&gt;3.Org chart" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          <mxGeometry x="410" y="360" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-13" value="Kiatnakin Bank&lt;br&gt;2 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Hire Purchase&lt;/b&gt;&lt;br&gt;Approval Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
           <mxGeometry x="160" y="530" width="160" height="100" as="geometry" />
@@ -5731,7 +5731,7 @@
           <mxGeometry x="530" y="610" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WFyH2IE3ottnsrRTayX_-37" value="1.Methodology&lt;br&gt;2.Team&lt;br&gt;3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
-          <mxGeometry x="569" y="431" width="90" height="50" as="geometry" />
+          <mxGeometry x="658" y="431" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
