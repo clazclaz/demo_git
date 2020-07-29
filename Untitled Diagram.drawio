@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:09:09.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="QUO5HxGZGX4IvsDIDSZw" version="13.3.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-29T15:12:46.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="1zYAYPkZoH0Trzi-Ik6A" version="13.4.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
-    <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Q3daOFidqaaoxfnSVhiS-0" />
         <mxCell id="Q3daOFidqaaoxfnSVhiS-1" parent="Q3daOFidqaaoxfnSVhiS-0" />
@@ -115,6 +115,9 @@
         </mxCell>
         <mxCell id="CC8I-QXQiwrO1S5gPRIc-1" value="70%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Q3daOFidqaaoxfnSVhiS-1" vertex="1">
           <mxGeometry x="25" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LbWCCG2ZqujeMDrNyxJT-0" value="80%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="380" y="210" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -5619,118 +5622,231 @@
     
   </diagram>
   <diagram id="AjSV192XAI-_8vAcVLU_" name="Reader">
+    
     <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="e-CdU-GiH-ku2WFccnPM-0" />
+        
         <mxCell id="e-CdU-GiH-ku2WFccnPM-1" parent="e-CdU-GiH-ku2WFccnPM-0" />
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
   <diagram id="R91uH6pfP83uw8u68Sqn" name="Spec">
+    
     <mxGraphModel dx="980" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-0" />
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-1" parent="WFyH2IE3ottnsrRTayX_-0" />
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-2" value="Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-3" value="Application&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="40" y="160" width="120" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-4" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-5" value="Architecture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-6" value="Design Principal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-7" value="Design Pattern" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-8" value="Introduction&lt;br&gt;Bio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="80" y="360" width="80" height="160" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-9" value="Timeline&lt;br&gt;Career" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="160" y="360" width="120" height="160" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-10" value="Current Project&lt;br&gt;Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="280" y="360" width="120" height="100" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-11" value="Duty as SA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-12" value="Question&lt;br&gt;to interviewer&lt;br&gt;1.Direction of IT and Biz Dep&lt;br&gt;2.Project plan in 2 years&lt;br&gt;3.Org chart&lt;br&gt;&lt;br&gt;4.Methodology + Standard (ISO or Else)&lt;br&gt;5.Any issue for IT, Biz Dep, or What want to improve&lt;br&gt;6.Digital Transfomation plan? or which way to scale to" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="410" y="360" width="320" height="160" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-13" value="Kiatnakin Bank&lt;br&gt;2 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Hire Purchase&lt;/b&gt;&lt;br&gt;Approval Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="160" y="530" width="160" height="100" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-14" value="Accenture Solution&lt;br&gt;3 Years&lt;br&gt;&lt;br&gt;&lt;b&gt;Telecom&lt;/b&gt;&lt;br&gt;DTAC, CELCOM&lt;br&gt;&lt;br&gt;&lt;b&gt;Plant&lt;/b&gt;&lt;br&gt;SCG" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="161" y="640" width="159" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-17" value="Kiatnakin Bank&lt;br&gt;&lt;br&gt;&lt;b&gt;Funding&lt;/b&gt;&lt;br&gt;(Online interface, Product campaign)&lt;br&gt;&lt;br&gt;&lt;b&gt;Commercial Lending&lt;/b&gt;&lt;br&gt;(Origination, Post Approve Management)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="161" y="770" width="159" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-18" value="MVC, MVVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="668" y="133" width="80" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-19" value="SOLID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="669" y="216" width="50" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-20" value="Etc.." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="690" y="300" width="40" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-21" value="Funding - Reduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="640" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-22" value="Funding - Investment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="680" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-23" value="Migration, Reconcile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="420" y="640" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-24" value="Funding - Online Transactional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="720" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-25" value="Sunset Legacy Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="420" y="680" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-26" value="Design and develop&lt;br&gt;RFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="760" y="640" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-27" value="Maintenance existing&lt;br&gt;Legacy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="760" y="680" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-28" value="Domain of Duty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="777" y="605" width="100" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-29" value="Portfolio Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="420" y="780" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-30" value="Service Request&lt;br&gt;(Internal Agent)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="820" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-31" value="Inventory Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="420" y="820" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-32" value="Borrower Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="780" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-33" value="Implement Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="760" y="730" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-34" value="Adhoc&lt;br&gt;Transaction Reconcile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="560" y="860" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-35" value="Technical Consult&lt;br&gt;and Advisory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="760" y="780" width="140" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="WFyH2IE3ottnsrRTayX_-36" value="Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WFyH2IE3ottnsrRTayX_-1">
+          
           <mxGeometry x="530" y="610" width="50" height="20" as="geometry" />
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
 </mxfile>
