@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T15:15:13.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="aBTSXMHFLOJ4SVFeFze1" version="13.4.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-29T15:15:53.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="zq5Gq890E_3p4lDlfNPP" version="13.4.9" type="github" pages="6">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
         <mxCell id="LbWCCG2ZqujeMDrNyxJT-1" value="1.Register&lt;br&gt;2.Favorite&lt;br&gt;3.Recommend&lt;br&gt;4.Rating&lt;br&gt;5.Search" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;spacingLeft=10;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="730" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbWCCG2ZqujeMDrNyxJT-2" value="1.Project Module&lt;br&gt;2.Rating Module&lt;br&gt;3.User Module" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;spacingLeft=10;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="LbWCCG2ZqujeMDrNyxJT-2" value="1.Project Module&lt;br&gt;2.Rating Module&lt;br&gt;3.User Module&lt;br&gt;4.Editor Module&lt;br&gt;5.CMS Module&lt;br&gt;6.Publisher Module" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;align=left;spacingLeft=10;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="250" y="110" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
