@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T13:46:38.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OF1YJdx3TGf6ghDHSfuK" version="14.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-16T13:58:53.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bVqG8N1L6oCWvCWP0e_A" version="14.6.1" type="github" pages="7">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,10 +271,10 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-42" value="View Content" style="swimlane;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="2001" y="80" width="399" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-45" value="View Post" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
+        <mxCell id="NECrjUkryomFy3PMU8Uf-45" value="View Post" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
           <mxGeometry x="39" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-46" value="View Project&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
+        <mxCell id="NECrjUkryomFy3PMU8Uf-46" value="View Project&lt;br&gt;Detail" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
           <mxGeometry x="39" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-47" value="View Editor&lt;br&gt;Homepage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
@@ -292,7 +292,7 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-49" value="Comment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
           <mxGeometry x="249" y="120" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-56" value="View Project&lt;br&gt;Content" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
+        <mxCell id="NECrjUkryomFy3PMU8Uf-56" value="View Project&lt;br&gt;Content" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-42">
           <mxGeometry x="39" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-57" value="extend" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NECrjUkryomFy3PMU8Uf-42" source="NECrjUkryomFy3PMU8Uf-49" target="NECrjUkryomFy3PMU8Uf-56">
@@ -382,23 +382,43 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-89" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="2440" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-99" value="Manage&lt;br&gt;Project" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2680" y="460" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-100" value="Manage&lt;br&gt;Post" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2620" y="560" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-101" value="Manage User&lt;br&gt;Badge" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2670" y="740" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-103" value="Manage My Project + Manage Project" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2800" y="80" width="360" height="360" as="geometry" />
+          <mxGeometry x="2640" y="80" width="380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-107" value="New Project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-103">
+          <mxGeometry x="40" y="55" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-108" value="View My Project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-103">
+          <mxGeometry x="40" y="135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-109" value="View Project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-103">
+          <mxGeometry x="220" y="135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="NECrjUkryomFy3PMU8Uf-103" source="NECrjUkryomFy3PMU8Uf-110" target="NECrjUkryomFy3PMU8Uf-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="NECrjUkryomFy3PMU8Uf-103" source="NECrjUkryomFy3PMU8Uf-110" target="NECrjUkryomFy3PMU8Uf-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-110" value="Edit Project&lt;br&gt;Info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-103">
+          <mxGeometry x="130" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="Q3daOFidqaaoxfnSVhiS-1" source="NECrjUkryomFy3PMU8Uf-104" target="NECrjUkryomFy3PMU8Uf-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="Q3daOFidqaaoxfnSVhiS-1" source="NECrjUkryomFy3PMU8Uf-104" target="NECrjUkryomFy3PMU8Uf-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-104" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2740" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="2580" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-105" value="Manage My Post" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2800" y="480" width="360" height="360" as="geometry" />
+        <mxCell id="NECrjUkryomFy3PMU8Uf-105" value="Manage My Post + Manage Post" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2640" y="480" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-106" value="Manage User Badge" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2640" y="880" width="360" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
