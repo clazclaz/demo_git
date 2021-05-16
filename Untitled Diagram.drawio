@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T13:42:09.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8sJt_81OhtNEYgh0yPES" version="14.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-16T13:45:31.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vScQ1jg9vF7KY64EfEaP" version="14.6.1" type="github" pages="7">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-48" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="1890" y="190" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-70" value="Message &amp; Ticket" style="swimlane;strokeWidth=1;fontStyle=0" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+        <mxCell id="NECrjUkryomFy3PMU8Uf-70" value="Message &amp; Ticket + Manage Ticket" style="swimlane;strokeWidth=1;fontStyle=0" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="2001" y="480" width="399" height="280" as="geometry" />
         </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-84" value="New Ticket&lt;br&gt;&amp;lt;To Admin&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="NECrjUkryomFy3PMU8Uf-70">
@@ -381,6 +381,24 @@
         </mxCell>
         <mxCell id="NECrjUkryomFy3PMU8Uf-89" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="2440" y="580" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-99" value="Manage&lt;br&gt;Project" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2680" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-100" value="Manage&lt;br&gt;Post" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2620" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-101" value="Manage User&lt;br&gt;Badge" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2670" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-103" value="Manage My Project + Manage Project" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2800" y="80" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-104" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2740" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NECrjUkryomFy3PMU8Uf-105" value="Manage My Post" style="swimlane;strokeColor=#000000;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2800" y="480" width="360" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
