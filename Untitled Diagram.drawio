@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T09:13:35.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="K8HEKjJfay7v3Yq45NPa" version="14.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-16T09:13:46.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4HNmg9UJiBIJwhQEZ0WV" version="14.6.1" type="github" pages="7">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -238,8 +238,8 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-22" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="1810" y="740" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NECrjUkryomFy3PMU8Uf-42" value="View Project" style="swimlane;strokeWidth=1;fontStyle=0" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
-          <mxGeometry x="2000" y="80" width="320" height="280" as="geometry" />
+        <mxCell id="NECrjUkryomFy3PMU8Uf-42" value="View Content" style="swimlane;strokeWidth=1;fontStyle=0;startSize=23;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="2001" y="80" width="320" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
