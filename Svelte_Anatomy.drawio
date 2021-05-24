@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T06:43:45.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="oVm0_6vcC_0kbEBFbeBs" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T06:45:32.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zFsppgLK_eQvbiH2WBPa" version="14.6.13" type="github">
   <diagram id="vdraliI-ng76uWGqOFFx" name="Page-1">
-    <mxGraphModel dx="2170" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,21 @@
         </mxCell>
         <mxCell id="I6dZqv0GFRtwUgszLqLK-32" value="Create utility.svelte for common function&lt;br&gt;which usually be called from any svelte file." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;size=10;position=0.58;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1130" y="170" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I6dZqv0GFRtwUgszLqLK-35" value="import" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604.5" y="-50" as="sourcePoint" />
+            <mxPoint x="605" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6dZqv0GFRtwUgszLqLK-36" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-320" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="I6dZqv0GFRtwUgszLqLK-37" value="Footer.svelte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-340" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I6dZqv0GFRtwUgszLqLK-39" value="&amp;lt;div class=&quot;footer&quot;&amp;gt;&lt;br&gt;since 2009&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&lt;br&gt;&amp;lt;style&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; .footer {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; background-color: #ccc;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; padding: 1em;&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;lt;/style&amp;gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-310" width="170" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
