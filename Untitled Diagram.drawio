@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T16:50:45.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="PWAOc05Pp-ALOueLPxJt" version="14.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-31T16:53:18.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="zeVeEISLoW8owyXAfv1W" version="14.7.3" type="github" pages="7">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -536,6 +536,12 @@
         </mxCell>
         <mxCell id="fybyb9c5kjmIZLkC2yrR-4" value="Bookmark&lt;br&gt;Social Network Login&lt;br&gt;Ticket Support" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="1130" y="650" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-5" value="New Project Comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="960" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-6" value="Chapter comment per page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="960" y="800" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
