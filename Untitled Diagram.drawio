@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T16:46:44.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="bc1e6EN9rUpvWNsbJ2g8" version="14.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-31T16:49:58.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="xYbw1S-MSW01N1GxxJkZ" version="14.7.3" type="github" pages="7">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -522,11 +522,20 @@
         <mxCell id="NECrjUkryomFy3PMU8Uf-142" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="Q3daOFidqaaoxfnSVhiS-1" vertex="1">
           <mxGeometry x="2580" y="960" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fybyb9c5kjmIZLkC2yrR-0" value="Design Layout UI/UX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-0" value="New Member for Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="960" y="560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fybyb9c5kjmIZLkC2yrR-1" value="Design Layout UI/UX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-1" value="Develop New Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
           <mxGeometry x="960" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-2" value="Frontend : Editor Homepage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="960" y="620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-3" value="New Member for&lt;br&gt;General User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="960" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fybyb9c5kjmIZLkC2yrR-4" value="Favorite&lt;br&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="Q3daOFidqaaoxfnSVhiS-1">
+          <mxGeometry x="1130" y="660" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
