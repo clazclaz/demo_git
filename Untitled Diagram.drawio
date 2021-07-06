@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T17:45:33.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="TAtw23xbYUynO_6qOrFb" version="14.8.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-06T17:46:29.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6Ke1bslyLlhPay_ZuOR3" version="14.8.4" type="github" pages="8">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3612,8 +3612,8 @@
         <mxCell id="JfreliBwxOmQPSuEpjAI-4" value="CZ_EDITOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
           <mxGeometry x="200" y="220" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfreliBwxOmQPSuEpjAI-5" value="MAP_AUTHORITY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
-          <mxGeometry x="360" y="180" width="120" height="20" as="geometry" />
+        <mxCell id="JfreliBwxOmQPSuEpjAI-5" value="MAP_ED_AUTHORITY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="350" y="180" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-6" value="CZ_USER_ROLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
           <mxGeometry x="360" y="300" width="110" height="20" as="geometry" />
@@ -3644,6 +3644,12 @@
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-14" value="+ICON&#xa;+LABEL" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JfreliBwxOmQPSuEpjAI-13">
           <mxGeometry y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JfreliBwxOmQPSuEpjAI-16" value="ED_CONTACT_POINT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="40" y="220" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JfreliBwxOmQPSuEpjAI-18" value="CZ_USER_BADGE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="40" y="300" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
