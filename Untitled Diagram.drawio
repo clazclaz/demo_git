@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T17:19:29.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DiC_A7GtkAv3wqqvAVcP" version="14.8.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-06T17:20:59.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bGKvAarNMPjHQHAcplej" version="14.8.4" type="github" pages="8">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3577,7 +3577,7 @@
         <mxCell id="k5prLKxasKcXI23GZi1D-36" value="Chapter Statistic" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k5prLKxasKcXI23GZi1D-38" value="User User&lt;br&gt;Group" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
+        <mxCell id="k5prLKxasKcXI23GZi1D-38" value="User User&lt;br&gt;Role" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k5prLKxasKcXI23GZi1D-40" value="Contact Point" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
@@ -3589,12 +3589,12 @@
         <mxCell id="k5prLKxasKcXI23GZi1D-44" value="Announcement" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JfreliBwxOmQPSuEpjAI-1" value="CZ_USER_INFO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
-          <mxGeometry x="230" y="520" width="160" height="120" as="geometry">
+        <mxCell id="JfreliBwxOmQPSuEpjAI-1" value="CZ_USER_ROLE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="360" y="560" width="160" height="120" as="geometry">
             <mxRectangle x="230" y="520" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfreliBwxOmQPSuEpjAI-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JfreliBwxOmQPSuEpjAI-1">
+        <mxCell id="JfreliBwxOmQPSuEpjAI-2" value="+USER_ID&#xa;+FLG_MEMBER&#xa;+FLG_EDITOR&#xa;+FLG_ADMIN" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JfreliBwxOmQPSuEpjAI-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-3" value="CZ_USER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
