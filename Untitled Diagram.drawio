@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T17:48:17.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="zsy3UhrhDcoRCnN1fvQe" version="14.8.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-06T17:50:43.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="sHNgjV5MMPgJt_HUNgl_" version="14.8.4" type="github" pages="8">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3658,6 +3658,14 @@
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-20" value="+FLG_MEMBER1&#xa;+FLG_MEMBER2&#xa;+FLG_MEMBER3&#xa;+FLG_MEMBER4&#xa;+FLG_MEMBER5&#xa;+FLG_EDITOR1&#xa;+FLG_EDITOR2&#xa;+FLG_EDITOR3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JfreliBwxOmQPSuEpjAI-19">
           <mxGeometry y="30" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JfreliBwxOmQPSuEpjAI-21" value="CZ_TICKET" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="240" y="890" width="160" height="130" as="geometry">
+            <mxRectangle x="230" y="520" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JfreliBwxOmQPSuEpjAI-22" value="+TICKET_ID&#xa;+CREATE_BY&#xa;+CREATE_DATE&#xa;+TICKET_TYPE&#xa;+STATUS" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JfreliBwxOmQPSuEpjAI-21">
+          <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
