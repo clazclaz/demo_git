@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T19:02:21.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="SsMCZNDv-c8UnHVBnSju" version="14.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-16T19:05:13.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="h1FVuu9KzgvaWfoQJSG8" version="14.8.6" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1215,7 +1215,7 @@
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-14" value="Check if there is&lt;br&gt;Token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
           <mxGeometry x="1060" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-16" target="JIGZXQ_BC_9vSzFxxHZh-34">
+        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-16" target="JIGZXQ_BC_9vSzFxxHZh-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-16" value="Retrieve User Info&lt;br&gt;from Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
@@ -1231,7 +1231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-27" value="Prepare Response&lt;br&gt;for UserInfo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
-          <mxGeometry x="1140" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="1090" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-30" target="JIGZXQ_BC_9vSzFxxHZh-26">
           <mxGeometry relative="1" as="geometry" />
@@ -1242,14 +1242,20 @@
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-34" target="JIGZXQ_BC_9vSzFxxHZh-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-34" value="Prepare User Info&lt;br&gt;as Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
-          <mxGeometry x="1140" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-34" value="Prepare User Info&lt;br&gt;as per Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
+          <mxGeometry x="1090" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-40" value="Not In&lt;br&gt;Valid&lt;br&gt;State" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-38" target="JIGZXQ_BC_9vSzFxxHZh-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-41" value="Valid" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-38" target="JIGZXQ_BC_9vSzFxxHZh-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-41" value="Valid" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-38" target="JIGZXQ_BC_9vSzFxxHZh-34">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="1200" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-38" value="Check if User&lt;br&gt;is&amp;nbsp;still valid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
           <mxGeometry x="900" y="390" width="160" height="60" as="geometry" />
@@ -1268,19 +1274,27 @@
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-44" target="JIGZXQ_BC_9vSzFxxHZh-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200" y="640" />
+              <mxPoint x="1150" y="640" />
               <mxPoint x="1100" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-44" value="Setup Token, UserInfo to store.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
-          <mxGeometry x="1140" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="1090" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-48" target="JIGZXQ_BC_9vSzFxxHZh-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIGZXQ_BC_9vSzFxxHZh-48" value="Redirect to&lt;br&gt;Sign In Page with Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
           <mxGeometry x="920" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-52" value="Valid" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eXTqSemJczJvDfp6efm6-1" source="JIGZXQ_BC_9vSzFxxHZh-51" target="JIGZXQ_BC_9vSzFxxHZh-34">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIGZXQ_BC_9vSzFxxHZh-51" value="Check if Token&lt;br&gt;still valid?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eXTqSemJczJvDfp6efm6-1">
+          <mxGeometry x="1240" y="390" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
