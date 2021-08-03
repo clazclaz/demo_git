@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T05:29:33.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="5K3vF7l_HGW6H_HP8pPm" version="14.9.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-03T17:30:45.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="rxyrMhqh62Ab0fzkFlIP" version="14.9.2" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Q3daOFidqaaoxfnSVhiS-0" />
         <mxCell id="Q3daOFidqaaoxfnSVhiS-1" parent="Q3daOFidqaaoxfnSVhiS-0" />
@@ -713,7 +713,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hwaeuDNCrm0mpCcFiWaS" name="ER">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k5prLKxasKcXI23GZi1D-0" />
         <mxCell id="k5prLKxasKcXI23GZi1D-1" parent="k5prLKxasKcXI23GZi1D-0" />
@@ -1071,13 +1071,16 @@
         <mxCell id="MKAkz5bhVw4H_Basrsth-1" value="+NPC_ID&#xa;+NPC_NAME&#xa;+NPC_NAME_LINK" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="MKAkz5bhVw4H_Basrsth-0" vertex="1">
           <mxGeometry y="30" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eEKQEcCXOJNRw9iLnWBx-0" value="CZ_TICKET_BODY" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+        <mxCell id="eEKQEcCXOJNRw9iLnWBx-0" value="CZ_TICKET_BODY" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="240" y="1270" width="160" height="110" as="geometry">
             <mxRectangle x="230" y="520" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEKQEcCXOJNRw9iLnWBx-1" value="+PARENT_TICKET_ID&#xa;+CREATE_BY_ID&#xa;+MESSAGE&#xa;+CREATE_DATE" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="eEKQEcCXOJNRw9iLnWBx-0">
+        <mxCell id="eEKQEcCXOJNRw9iLnWBx-1" value="+PARENT_TICKET_ID&#xa;+CREATE_BY_ID&#xa;+MESSAGE&#xa;+CREATE_DATE" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="eEKQEcCXOJNRw9iLnWBx-0" vertex="1">
           <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUTTsjr_gHm-gdB1fimt-0" value="&lt;b&gt;GoingType&lt;/b&gt;&lt;br&gt;1=Editor, 2=As Admin" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.92;size=10;position=0.67;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="430" y="670" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
