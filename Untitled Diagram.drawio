@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:54:40.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="kQ3r4ssKf4hJ5fpbf0Bz" version="15.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:58:55.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="kfC2WQ79KWMIikXXOmzY" version="15.3.5" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -846,12 +846,12 @@
           <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-1" value="CZ_USER_ROLE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
-          <mxGeometry x="440" y="890" width="160" height="110" as="geometry">
+          <mxGeometry x="440" y="890" width="160" height="120" as="geometry">
             <mxRectangle x="230" y="520" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfreliBwxOmQPSuEpjAI-2" value="+USER_ID&#xa;+FLG_MEMBER&#xa;+FLG_EDITOR&#xa;+FLG_ADMIN" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JfreliBwxOmQPSuEpjAI-1" vertex="1">
-          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        <mxCell id="JfreliBwxOmQPSuEpjAI-2" value="+USER_ID&#xa;+FLG_MEMBER&#xa;+FLG_EDITOR&#xa;+FLG_ADMIN&#xa;+VERIFIED_EDITOR" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JfreliBwxOmQPSuEpjAI-1" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JfreliBwxOmQPSuEpjAI-3" value="CZ_USER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="200" y="300" width="70" height="20" as="geometry" />
