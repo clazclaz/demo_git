@@ -1,0 +1,233 @@
+<mxfile host="app.diagrams.net" modified="2021-09-02T09:33:15.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ZGyrbSFw7c9rDQTzOb2a" version="15.0.4" type="github">
+  <diagram id="GaLzZ4T46rTKycSQtgxb" name="Page-1">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-1" target="Qj8HV9jhuRQDUKoZWunz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-1" value="CIAW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-6" value="web service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-2" target="Qj8HV9jhuRQDUKoZWunz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-2" value="CBO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-3" value="LAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-5" value="1.ทรัพย์ใหม่&lt;br&gt;2.ทรัพย์ใหม่รอเป็นหลักประกัน" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-8" value="Servicer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-9" value="Collateral Oper" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-10" value="..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-11" value="ทรัพยที่เคยถูกประเมินมาแล้ว (ที่ดิน)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-12" value="ทรัพยที่ยังไม่เคยถูกประเมินมาก่อน (ที่ดิน)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-13" value="ทรัพย์ที่ไม่ต้องประเมิน&lt;br&gt;(บัญชีเงินฝาก)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="725.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-14" value="1.เช็คข้อมูลเล่มประเมิน&lt;br&gt;2.เงื่อนไขอื่นๆ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-15" value="สามารถจำนองก่อนประเมินได้ แต่จะมีกระบวนการภายหลังโดยพฺิธีการ เพื่อตรวจสอบความถูกต้อง/เงื่อนไข" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-16" value="มูลค่าหลักประกันตามยอดที่แจ้งอายัด&lt;br&gt;ราคาประเมิน (บช เงินฝาก) = จำนวนเงินที่อายัด&lt;br&gt;ตอนทำ DBD คือแจ้งวงเงินยอดค้ำประกัน" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="720" width="250" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-17" value="ข้อมูลที่ส่งให้ LAL&lt;br&gt;ต้องมีข้อมูลของ &quot;หลักประกัน&quot; ครบถ้วน" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-18" target="Qj8HV9jhuRQDUKoZWunz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-18" value="อนุมัติ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="890" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-19" target="Qj8HV9jhuRQDUKoZWunz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-19" value="เตรียม CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="890" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-21" value="เตรียมหลักประกัน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="890" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-23" value="ข้อมูลของหลักประกัน ต้องควรถ้วน" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="130" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-24" value="Q1.ในกรณีที่มีการแก้ไขข้อมุลหลักประกันระหว่างดำเนินการ&lt;br&gt;เช่น ที่ดิน 1 แปลง เปลี่ยนเป็น 4 แปลง ต้องดำเนินการอย่างไร" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-110" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-25" target="Qj8HV9jhuRQDUKoZWunz-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-25" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-26" target="Qj8HV9jhuRQDUKoZWunz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-26" value="11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-27" target="Qj8HV9jhuRQDUKoZWunz-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-27" value="12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-28" target="Qj8HV9jhuRQDUKoZWunz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-28" value="13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-29" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-30" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-31" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-32" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-36" value="11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-37" value="12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-38" value="13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-39" target="Qj8HV9jhuRQDUKoZWunz-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="290" />
+              <mxPoint x="500" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-39" target="Qj8HV9jhuRQDUKoZWunz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-39" target="Qj8HV9jhuRQDUKoZWunz-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="290" />
+              <mxPoint x="440" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qj8HV9jhuRQDUKoZWunz-39" target="Qj8HV9jhuRQDUKoZWunz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-49" value="11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-50" value="12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-51" value="13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-52" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-53" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-54" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-55" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-56" value="collat_id = A123" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-57" value="collat_id = A234&lt;br&gt;collat_Id = A345&lt;br&gt;collat_id = A456&lt;br&gt;collat_id = A567" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-59" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-60" value="11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-61" value="12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-62" value="13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-63" value="shortform" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-72" value="10M" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.58;base=3;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-74" value="ทรัพยที่เคยถูกประเมินมาแล้ว (ที่ดิน)&lt;br&gt;แต่มีการแก้ไขข้อมูลหลักประกันด้วย shortform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-75" value="เช่นที่ดินถูกรังวัตใหม่จาก 1 แปลงเป็นหลายแปลงหรืออื่นๆ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-76" value="1.เตรียมข้อมูล&lt;br&gt;หลักประกัน" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-77" value="2.ส่งข้อมูล&lt;br&gt;หลักประกันระหว่าง CBO และ LAL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="585" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-78" value="1.เตรียมข้อมูล&lt;br&gt;หลักประกัน" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-79" value="ข้อมูลที่ไม่ครบถ้วนแต่แรกตอน Servicer บันทึกใน CA&lt;br&gt;พิธีการหรือนิติกรรม จะต้องบันทึกให้ครบ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="275" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-80" value="ในขั้นตอนเตรียมข้อมูลหลักประกัน&lt;br&gt;จังหวะที่ทีม Collat Oper ตรวจสอบข้อมูลช่วงท้าย&lt;br&gt;หากพบว่าข้อมูลไม่ถูกต้อง สามารถติดต่อทีมประเมินเพื่อสอบถามข้อผิดพลาดได้&lt;br&gt;หากเป็น Key ผิด ทีม Collat Oper สามารถ Override แก้จาก CBO ไปอัพเดท LAL ได้&lt;br&gt;แต่ถ้าทีมประเมินดำเนินการผิด และต้องเข้าสู่กระบวนการแก้ไข ก็จะดำเนินการแก้ไขนอกและในระบบ LAL ให้เรียบร้อย&lt;br&gt;จากนั้นทีม Collat Oper สามารถดูข้อมูลใหม่ที่แก้ไขแล้วในระบบ CBO ได้ (ในกรณีที่เป็นแก้ไขในวัน&lt;br&gt;สามารถกดปุ่ม Refresh data เพื่อให้ระบบ CBO ดึงข้อมูลจาก LAL ใหม่ได้)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="340" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-81" value="Question :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-82" value="Q เช็คกับ CIAW เรื่องการประเมินหลักประกันในเคสที่วงเงินเกิน 50M (ซึ่งต้องประเมินด้วยบริษัท OS ที่อยู่ใน List ของ กลต.)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-20" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-83" value="วันที่ประเมินหลักประกันที่เกินช่วงเวลา 1 ปี (หรือกำหนด) ระบบควรตรวจสอบในเงื่อนไขนี้ให้ได้" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-85" value="Action Card : พี่ศุแจ้งว่าใช้ Field อะไรในการตรวจสอบว่าอายุเล่มประเมินไม่เกิน 1 ปี (คำนวนจากวันอะไรบ้าง)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="820" y="550" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj8HV9jhuRQDUKoZWunz-86" value="LAL API รองรับการค้นข้อมูลแบบ Online" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="490" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
