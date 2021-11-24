@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2021-06-28T13:21:39.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="rGWsV6rEzaENL7GiyV1f" version="14.8.1" type="github">
+  <diagram id="jYqp2qBs8sM30BliY4hZ" name="Page-1">
+    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-9" value="[Action] = D (Delete)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-4" target="HSLvqPg6c1Dx9d9vvpHx-8">
+          <mxGeometry x="0.6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-4" value="Check input&lt;br&gt;[Action]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-1" target="HSLvqPg6c1Dx9d9vvpHx-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="120" as="sourcePoint" />
+            <mxPoint x="380" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-6" target="HSLvqPg6c1Dx9d9vvpHx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="480" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-6" value="Prepare Response&lt;br&gt;&amp;lt;Invalid Status&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-8" target="HSLvqPg6c1Dx9d9vvpHx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-8" value="Delete Contract&lt;br&gt;in CBO2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-10" value="Input : [ContractBookNo] and [SigningBookDate] and&lt;br&gt;[Action]" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.08;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-13" target="HSLvqPg6c1Dx9d9vvpHx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="480" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-13" value="Prepare Response&lt;br&gt;&amp;lt;Already Active&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-11" target="HSLvqPg6c1Dx9d9vvpHx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-11" value="Get CBO2&lt;br&gt;[Contract Status]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-4" target="HSLvqPg6c1Dx9d9vvpHx-11">
+          <mxGeometry x="0.0667" relative="1" as="geometry">
+            <mxPoint x="440" y="180" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-16" value="[Action] = A (Active)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HSLvqPg6c1Dx9d9vvpHx-15">
+          <mxGeometry x="0.4572" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-22" value="[Contract Status = H" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-18" target="HSLvqPg6c1Dx9d9vvpHx-21">
+          <mxGeometry x="0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-24" value="[Contract Status] &amp;lt;&amp;gt; H" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-18">
+          <mxGeometry x="0.0909" y="-10" relative="1" as="geometry">
+            <mxPoint x="480" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-18" value="Check current&lt;br&gt;[Contract Status]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-19" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-21" target="HSLvqPg6c1Dx9d9vvpHx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-21" value="Change [Contract Status] to Active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HSLvqPg6c1Dx9d9vvpHx-26" target="HSLvqPg6c1Dx9d9vvpHx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSLvqPg6c1Dx9d9vvpHx-26" value="Prepare Response&lt;br&gt;&amp;lt;Change Completed&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
