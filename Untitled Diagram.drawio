@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T05:51:54.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="9qP-5vOg4c_0KaIpGlB3" version="16.5.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-13T05:53:17.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ck3La0Ah27ArZurWsQXs" version="16.5.5" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -830,7 +830,7 @@
         <mxCell id="k5prLKxasKcXI23GZi1D-25" value="Authority" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="200" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k5prLKxasKcXI23GZi1D-30" value="Badge" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
+        <mxCell id="k5prLKxasKcXI23GZi1D-30" value="Badge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k5prLKxasKcXI23GZi1D-36" value="Chapter Statistic" style="rounded=0;whiteSpace=wrap;html=1;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
@@ -1079,7 +1079,7 @@
             <mxPoint x="560" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MA5tHrrUbh_cZwik_WQu-2" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
+        <mxCell id="MA5tHrrUbh_cZwik_WQu-2" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MA5tHrrUbh_cZwik_WQu-3" value="CZ_EDITOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
@@ -1102,6 +1102,15 @@
         </mxCell>
         <mxCell id="MA5tHrrUbh_cZwik_WQu-11" value="CZ_USER_FDA_ACCOUNT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="k5prLKxasKcXI23GZi1D-1" vertex="1">
           <mxGeometry x="15" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4sN_IDaDO7bHtOQut2a1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="k5prLKxasKcXI23GZi1D-1" source="4sN_IDaDO7bHtOQut2a1-0" target="k5prLKxasKcXI23GZi1D-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4sN_IDaDO7bHtOQut2a1-0" value="Lookup Badge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="40" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4sN_IDaDO7bHtOQut2a1-2" value="LOOKUP_BADGE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="k5prLKxasKcXI23GZi1D-1">
+          <mxGeometry x="40" y="210" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
