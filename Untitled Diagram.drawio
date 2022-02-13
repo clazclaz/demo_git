@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T07:55:20.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="Nh2ynv4hcZg9yQSOYqnB" version="16.5.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-13T07:56:04.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="XS5DG7dALVW7Q7UqDC-H" version="16.5.5" type="github" pages="5">
   <diagram id="UPM5syYt0WPT51keoGyo" name="Roadmap">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1107,7 +1107,7 @@
             <mxRectangle x="230" y="520" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4sN_IDaDO7bHtOQut2a1-6" value="+BADGE_ID&#xa;+USER_ID&#xa;+STATUS" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="4sN_IDaDO7bHtOQut2a1-5">
+        <mxCell id="4sN_IDaDO7bHtOQut2a1-6" value="+BADGE_ID&#xa;+USER_ID&#xa;+STATUS (0=Inactive, 1=Active)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="4sN_IDaDO7bHtOQut2a1-5">
           <mxGeometry y="30" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
