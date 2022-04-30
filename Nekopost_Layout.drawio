@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T06:37:11.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="DfXfRCCIZ3f_FAuHXad0" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T06:37:32.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="Zp4Zfay18guHx_b8Jeuz" version="17.5.0" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1354" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -149,46 +149,46 @@
           <mxGeometry x="500" y="610" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-66" value="New Topics" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="160" width="90" height="20" as="geometry" />
+          <mxGeometry x="130" y="190" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="170" height="20" as="geometry" />
+          <mxGeometry x="130" y="220" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="170" height="20" as="geometry" />
+          <mxGeometry x="130" y="240" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="230" width="170" height="20" as="geometry" />
+          <mxGeometry x="130" y="260" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="250" width="170" height="20" as="geometry" />
+          <mxGeometry x="130" y="280" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="130" y="270" width="170" height="20" as="geometry" />
+          <mxGeometry x="130" y="300" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-78" value="Popular Topics" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="310" y="190" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="170" height="20" as="geometry" />
+          <mxGeometry x="310" y="220" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="170" height="20" as="geometry" />
+          <mxGeometry x="310" y="240" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="170" height="20" as="geometry" />
+          <mxGeometry x="310" y="260" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="170" height="20" as="geometry" />
+          <mxGeometry x="310" y="280" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="170" height="20" as="geometry" />
+          <mxGeometry x="310" y="300" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SqI3tJ1d9YcYI45e7a6i-90" value="Community&#39;s Rule" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="150" height="60" as="geometry" />
+        <mxCell id="SqI3tJ1d9YcYI45e7a6i-90" value="Community&#39;s Rule" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SqI3tJ1d9YcYI45e7a6i-92" value="Quick How-To" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="150" height="60" as="geometry" />
+        <mxCell id="SqI3tJ1d9YcYI45e7a6i-92" value="Quick How-To" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
