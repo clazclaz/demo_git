@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T06:42:22.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="r_8z2TmxpQRKR2iNrx5B" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T06:43:01.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="3z4JYM5zTdY7ZGlLqc3L" version="17.5.0" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1354" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="SqI3tJ1d9YcYI45e7a6i-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="1250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SqI3tJ1d9YcYI45e7a6i-134" value="Special Post from Admin and/or Editor to promote valid campaign" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=20;position=0.08;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
